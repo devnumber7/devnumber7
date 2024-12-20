@@ -8,10 +8,10 @@
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611npwr91pdpzwwjwjuhbddok077br43thikdpstqx1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
 
 
-- 💻 I'm currently working on [Your Current Project]
-- 🌱 Learning [Your Current Learning Focus]
-- 💡 I love exploring [Your Interests]
-- 🤝 Open to collaborating on [Collaboration Interests]
+- 💻 I'm currently working on C/C++ for systems level programming and network management 
+- 🌱 Learning Systems level programming and network design 
+- 💡 I love exploring Mathhhhhh and Theatre 
+<!-- 🤝 Open to collaborating on [Collaboration Interests]-->
 
 
 
