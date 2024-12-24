@@ -63,6 +63,7 @@
 
 
 
-### 😂 Random Dev Meme
+<!--### 😂 Random Dev Meme
 
 <img src="https://i.chzbgr.com/full/10429316608/hF518094E/hires-another-designer-engineers-company-hires-another-engineer-am-not-enough-apes-together-strong" width="512px"/>
+-->
