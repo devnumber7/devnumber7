@@ -15,17 +15,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devnumber7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnumber7&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=devnumber7&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## All The Stuff That I know 
 
 <div>
