@@ -1,32 +1,34 @@
 # 👋 Hey, I’m Aryan Palit  
 
 🎓 CS + Math student @ Virginia Tech | 🎭 Theatre Arts minor  
-🍏 iOS & macOS developer | Swift & SwiftUI specialist | Security-minded Apple enthusiast  
+🍏 iOS developer | Swift & SwiftUI enjoyer
 
 ---
 
 ## 🚀 About Me
-- Passionate about **building polished, Gen-Z friendly apps** in the Apple ecosystem.  
-- Deep dive into **SwiftUI, SwiftData, CoreML, Metal, CryptoKit, Hypervisor.framework**.  
+- Passionate about **building polished, user friendly apps** in the Apple ecosystem.  
+- Deep dive into **SwiftUI, SwiftData, CoreML, Metal, CryptoKit, AVFoundation**.  
 - Exploring the intersection of **design, ML, and systems programming**.  
-- Published **2 apps on the App Store** (focused on SwiftUI design and audio journaling).  
+- Published **3 apps on the App Store** (focused on SwiftUI design, audio journaling and note taking).  
 
 ---
 
 ## 🛠 Featured Projects
 
-### 🎨 [Hueology](https://apps.apple.com/)  
+### Hueology 
 A designer-first color palette app with live camera extraction, WCAG contrast checks, and Tailwind/Material palettes.  
 
-### 📝 Journal.ai  
-Audio journaling with **sentiment analysis** using Apple’s **Natural Language** framework.  
+### Journal.ai  
+Audio journaling with **sentiment analysis** using Apple’s **Natural Language** framework.   
 
-### 💻 Doofie (macOS)  
-Lightweight Swift-based code/text editor with:  
-- NSDocument + TextKit integration  
-- Syntax highlighting  
-- Custom line rulers  
-- Metal shader backgrounds  
+### 📚 Turing Note  
+SwiftData-powered learning note system:  
+- Note cards specifically tailored towards taking programming notes
+- Language-aware tagging & disclosure UI  
+- Swift data for storage
+
+
+## In Progress ...
 
 ### 📍 BuzzBuzz  
 Campus-focused social app:  
@@ -34,31 +36,23 @@ Campus-focused social app:
 - Bonjour peer-to-peer discovery  
 - Designed for lightweight student interactions  
 
-### 📚 Readme  
-SwiftData-powered learning note system:  
-- `@Model` entities for notes, tags, code snippets  
-- Language-aware tagging & disclosure UI  
-- Optimized for CS/math students  
-
 ### 📈 GPU Finance Backtester  
 Metal-accelerated discrete-event simulator for portfolio rebalancing & ML-based alpha signals.  
 
 ---
 
 ## 🔧 Skills
-- **Languages**: Swift, C, C++, Rust (bridging with Swift), Python  
-- **Frameworks**: SwiftUI, SwiftData, Combine, CoreML, CryptoKit, Metal, CoreLocation, CloudKit  
+- **Languages**: Swift, C, Java, Python  
+- **Frameworks**: SwiftUI, SwiftData, Combine, CoreML, CryptoKit, Metal, CoreLocation, CloudKit, AVFoundation, SpriteKit  
 - **Focus Areas**:  
   - iOS/macOS app dev  
-  - Swift API design & frameworks  
-  - GPU-accelerated compute (finance, ML)  
+  - Swift API design & frameworks   
   - System-level experiments (Hypervisor, VirtIO, drivers)  
 
 ---
 
 ## 🌟 Highlights
-- 📱 iOS 18-style apps with **modern, Gen-Z UIs**  
-- 🖥️ macOS apps with **TextKit + SwiftData integration**  
+- 📱 iOS 18-style apps with **modern UIs**  
 - 🧠 Exploration of **local-first ML & finance compute**  
 - 🎭 Balance of **technical rigor + creative design**  
 
