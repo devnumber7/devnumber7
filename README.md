@@ -1,4 +1,4 @@
-# Hello 
+# Hey
 
 🎓 CS + Math student @ Virginia Tech | 🎭 Theatre Arts minor  
 🍏 iOS developer | Swift & SwiftUI enjoyer
