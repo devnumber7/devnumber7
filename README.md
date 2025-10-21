@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - Passionate about **building polished, user friendly apps** in the Apple ecosystem.  
 - Deep dive into **SwiftUI, SwiftData, CoreML, Metal, CryptoKit, AVFoundation**.  
 - Exploring the intersection of **design, ML, and systems programming**.  
@@ -21,7 +21,7 @@ A designer-first color palette app with live camera extraction, WCAG contrast ch
 ### Journal.ai  
 Audio journaling with **sentiment analysis** using Apple’s **Natural Language** framework.   
 
-### 📚 Turing Note  
+### Turing Note  
 SwiftData-powered learning note system:  
 - Note cards specifically tailored towards taking programming notes
 - Language-aware tagging & disclosure UI  
@@ -30,7 +30,7 @@ SwiftData-powered learning note system:
 
 ## In Progress ...
 
-### 📍 BuzzBuzz  
+###  BuzzBuzz  
 Campus-focused social app:  
 - Location-anchored posts (CoreLocation + CloudKit)  
 - Bonjour peer-to-peer discovery  
