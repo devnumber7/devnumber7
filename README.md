@@ -15,17 +15,15 @@
 
 ## 🛠 Featured Projects
 
-### Hueology 
-A designer-first color palette app with live camera extraction, WCAG contrast checks, and Tailwind/Material palettes.  
+### RhythmKit
+A lightweight Swift + Metal framework for rhythmic pattern analysis, symmetry detection, and GPU-accelerated spectrum extraction.
+
 
 ### Journal.ai  
 Audio journaling with **sentiment analysis** using Apple’s **Natural Language** framework.   
 
 ### Turing Note  
-SwiftData-powered learning note system:  
-- Note cards specifically tailored towards taking programming notes
-- Language-aware tagging & disclosure UI  
-- Swift data for storage
+SwiftData-powered learning note system
 
 
 ## In Progress ...
