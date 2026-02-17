@@ -47,13 +47,3 @@ Metal-accelerated discrete-event simulator for portfolio rebalancing & ML-based 
   - Swift API design & frameworks   
   - System-level experiments (Hypervisor, VirtIO, drivers)  
 
----
-
-## 🌟 Highlights
-- 📱 iOS 18-style apps with **modern UIs**  
-- 🧠 Exploration of **local-first ML & finance compute**  
-- 🎭 Balance of **technical rigor + creative design**  
-
----
-
-⭐️ *“Building polished apps at the intersection of Swift, ML, and design.”*
