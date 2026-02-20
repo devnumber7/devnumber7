@@ -1,6 +1,6 @@
 # Hey
 
-🎓 CS + Math student @ Virginia Tech | 🎭 Theatre Arts minor  
+🎓 CS + Math student | 🎭 Theatre Arts minor  
 🍏 iOS developer | Swift & SwiftUI enjoyer
 
 ---
