@@ -1,14 +1,14 @@
 # Hey
 
 🎓 CS + Math student | 🎭 Theatre Arts minor  
-🍏 iOS developer | Swift & SwiftUI enjoyer
+🍏 iOS developer | Swift & SwiftUI 
 
 ---
 
 ## About Me
 - Passionate about **building polished, user friendly apps** in the Apple ecosystem.  
-- Deep dive into **SwiftUI, SwiftData, CoreML, Metal, CryptoKit, AVFoundation**.  
-- Exploring the intersection of **design, ML, and systems programming**.  
+- Experience with **SwiftUI, SwiftData, CoreML, Metal, CryptoKit, AVFoundation**.  
+
 - Published **3 apps on the App Store** (focused on SwiftUI design, audio journaling and note taking).  
 
 ---
