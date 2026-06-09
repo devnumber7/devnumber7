@@ -1,16 +1,9 @@
-# Hey
+# Hellow
 
-🎓 CS + Math student | 🎭 Theatre Arts minor  
-🍏 iOS developer | Swift & SwiftUI 
+CS + Math student | Theatre Arts minor  
+iOS developer     | Swift & SwiftUI 
 
 ---
 
 
-## 🔧 Skills
-- **Languages**: Swift, C, Java, Python  
-- **Frameworks**: SwiftUI, SwiftData, Combine, CoreML, CryptoKit, Metal, CoreLocation, CloudKit, AVFoundation, SpriteKit  
-- **Focus Areas**:  
-  - iOS/macOS app dev  
-  - Swift API design & frameworks   
-  - System-level experiments (Hypervisor, VirtIO, drivers)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
